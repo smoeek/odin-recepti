@@ -1,4 +1,4 @@
-.naslov {
+.naslovi {
 text-align: center;
 color: darkolivegreen ;
 font-size: 70px;
@@ -11,7 +11,19 @@ font-size: 28px;
 body {
 background-color: antiquewhite;
 }
-.ustipak
+.naslov
 {
     text-align: center;
+}
+.slikau
+{
+text-align: center;
+}
+.ustipaks
+{
+    font-size: 20px;
+}
+.slikurina
+{
+    height: 300px;
 }
