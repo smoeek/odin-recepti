@@ -8,9 +8,11 @@ font-size: 70px;
 background-color: burlywood;
 font-size: 28px;
 }
-
 body {
 background-color: antiquewhite;
+font-size: 18px;
+width: 990px;
+margin: 15px auto;
 }
 .naslov
 {
@@ -20,10 +22,7 @@ background-color: antiquewhite;
 {
 text-align: center;
 }
-.ustipaks
-{
-    font-size: 20px;
-}
+
 .slikurina
 {
     height: 300px;
@@ -34,5 +33,11 @@ text-align: center;
     margin: 10px auto;
     border: 2px olive;
     box-sizing: border-box;
-    
+}
+#pustipak , #plasagna , #pbrownies
+{
+    padding: 17px;
+    background-color: olive;
+    border: 2px;
+    font-style: italic;
 }
